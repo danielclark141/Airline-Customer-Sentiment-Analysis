@@ -10,3 +10,6 @@ For this project, I leverage Python's Pandas library for data manipulation and a
 [Click here to view the analysis](https://github.com/danielclark141/Airline-Customer-Sentiment-Analysis/blob/main/Airline-Customer-Sentiment-Analysis.ipynb)
 
 [Click here to view the Kaggle dataset](https://www.kaggle.com/code/manishkumar7432698/airline-passanger-choice-eda)
+
+
+[Project Conclusion](https://github.com/danielclark141/Airline-Customer-Sentiment-Analysis/blob/ba6a749a8336a5674acd5d24c93d77abb4d1d26c/Airline-Customer-Sentiment-Analysis.ipynb#L5368)
