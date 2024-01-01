@@ -10,4 +10,3 @@ For this project, I leverage Python's Pandas library for data manipulation and a
 
 [Click here to view the Kaggle dataset](https://www.kaggle.com/code/manishkumar7432698/airline-passanger-choice-eda)
 
-[Webscrapped Source](https://www.nationsonline.org/oneworld/IATA_Codes/airport_code_list.htm)
